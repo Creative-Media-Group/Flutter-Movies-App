@@ -47,7 +47,7 @@ Sed consequat nulla enim, in tincidunt lacus laoreet id. Maecenas lacus est, ven
 Morbi dignissim, purus a rhoncus iaculis, quam urna tincidunt metus, et congue sem quam eu nisi. Donec et congue velit. Maecenas efficitur augue et enim ultrices, ac feugiat purus gravida. Integer quis arcu ut neque auctor dapibus non vel velit. Quisque condimentum dolor lectus, ut euismod lorem blandit ac. Nullam et fringilla purus. Vestibulum volutpat tempor velit, fringilla elementum sem tristique condimentum. Donec ac sapien vitae ex malesuada tincidunt. Nunc lacus magna, lobortis vitae malesuada ut, accumsan nec massa. Ut porta lacus ac turpis dapibus tincidunt. Etiam cursus, arcu nec auctor pulvinar, sapien nibh rutrum tellus, vitae eleifend ipsum massa vel tortor. Aenean suscipit auctor est id gravida. Ut malesuada commodo nulla quis tempor. Donec lobortis turpis eu enim vehicula, eget commodo quam finibus. Mauris ut nulla rhoncus, malesuada justo quis, scelerisque erat.
               ''',
                   ),
-                )
+                ),
               ],
             ),
           ),

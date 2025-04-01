@@ -90,7 +90,7 @@ class MoviePreview extends StatelessWidget {
                   ),
                 ),
               ),
-            )
+            ),
           ],
         ),
       ),

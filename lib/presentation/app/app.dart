@@ -27,7 +27,7 @@ class App extends StatelessWidget {
             brightness: Brightness.dark,
             textButtonTheme: TextButtonThemeData(
               style: ButtonStyle(
-                foregroundColor: MaterialStateProperty.all<Color>(Colors.blue),
+                foregroundColor: WidgetStateProperty.all<Color>(Colors.blue),
               ),
             ),
           ),

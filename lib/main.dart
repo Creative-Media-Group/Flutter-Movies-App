@@ -74,7 +74,7 @@ Future<InitialData> _createData() async {
     providers: [
       Provider<Logger>.value(value: log),
       Provider<MoviesRepository>.value(value: moviesRepository),
-      ChangeNotifierProvider<AppService>.value(value: appService)
+      ChangeNotifierProvider<AppService>.value(value: appService),
     ],
   );
 }
